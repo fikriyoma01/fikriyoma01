@@ -4,7 +4,12 @@
 </div>
 
 👋 Tentang Saya
-Fikri Yoma Rosyidan, lulusan Magister dan Sarjana cum laude dalam Sistem Informasi dari Universitas Airlangga dan ITS, memiliki keahlian luar biasa dalam pemrograman web dan seluler, manajemen basis data, analisis sistem, dan manajemen data. Sebagai individu yang sangat termotivasi dengan fondasi yang kuat dalam pemrograman dan pemecahan masalah (bersertifikat Pemrogram BNSP), Fikri memiliki hasrat untuk menjelajahi teknologi baru dan mengembangkan solusi inovatif. Sebagai Lulusan Google Bangkit dengan fokus pada Cloud Computing dan Mobile Development, ia telah menunjukkan kemampuan kepemimpinan dan kerja tim melalui partisipasi aktif dalam organisasi kampus. Berkomitmen untuk memberikan hasil kerja berkualitas tinggi dan pertumbuhan profesional yang berkelanjutan, Fikri bersemangat untuk berkontribusi pada kemajuan Sistem Informasi dan memberikan dampak positif bagi masyarakat.
+
+Saya, Fikri Yoma Rosyidan, merupakan lulusan Magister dan Sarjana Sistem Informasi dengan predikat cum laude dari Institut Teknologi Sepuluh Nopember (ITS) dan Universitas Airlangga. Memiliki keahlian yang kuat dalam pemrograman web dan mobile, manajemen basis data, analisis sistem, serta manajemen data, saya dikenal sebagai individu yang sangat termotivasi dan berorientasi pada solusi.
+
+Dengan latar belakang yang didukung oleh sertifikasi Pemrogram dari BNSP, saya memiliki fondasi kokoh dalam pemrograman dan pemecahan masalah. Sebagai alumni program Google Bangkit dengan fokus pada Cloud Computing dan Mobile Development, saya telah mengembangkan kemampuan teknis, kepemimpinan, serta kolaborasi tim melalui berbagai kegiatan organisasi kampus.
+
+Saya berkomitmen untuk terus memberikan hasil kerja yang berkualitas tinggi dan mendorong pertumbuhan profesional secara berkelanjutan. Saya antusias untuk berkontribusi dalam pengembangan Sistem Informasi dan menciptakan dampak positif bagi masyarakat melalui solusi teknologi yang inovatif.
 
 🛠️ Teknologi & Alat
 <p align="center">
