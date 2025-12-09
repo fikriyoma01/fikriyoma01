@@ -21,11 +21,6 @@ Saya berkomitmen untuk terus memberikan hasil kerja yang berkualitas tinggi dan 
 <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" alt="React">
 </p>
 
-📊 Statistik GitHub
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fikriyoma01&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
-
 🔗 Hubungi Saya
 <p align="center">
 <a href="https://www.linkedin.com/in/fikri-yoma-rosyidan-456502221/" target="_blank">
